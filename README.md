@@ -66,7 +66,7 @@ plt.axis('off')
 ## Output:
 
 ### Display the input Image:
-![image](https://github.com/user-attachments/assets/5b9756cd-da93-4b37-b165-669adbba621c)
+![image](https://github.com/user-attachments/assets/357aef0e-a0e8-48b3-a45a-13417903b20d)
 
 
 
